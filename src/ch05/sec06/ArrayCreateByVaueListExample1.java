@@ -1,6 +1,6 @@
-package ch05;
+package ch05.sec06;
 
-public class ArrayCreateByVaueListExample {
+public class ArrayCreateByVaueListExample1 {
     public static void main(String[] args) {
         //배열 변수 선언과 배열 생성
         String[] season = {"Spring","Summer","Fall","Winter"};

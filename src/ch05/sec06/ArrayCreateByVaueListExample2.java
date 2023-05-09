@@ -1,4 +1,4 @@
-package ch05;
+package ch05.sec06;
 
 public class ArrayCreateByVaueListExample2 {
     public static void main(String[] args) {

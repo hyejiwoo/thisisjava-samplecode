@@ -1,4 +1,4 @@
-package ch05;
+package ch05.sec05;
 
 public class ReplceExample {
     public static void main(String[] args) {
