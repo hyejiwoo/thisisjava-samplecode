@@ -1,0 +1,27 @@
+
+Z
+*src/ch05/sec05/IndexOfContainsExample.java,0\c\0c46dc77ee4f2c7f2379c9addc84aeec44d6c626
+T
+$src/ch05/sec05/SubStringExample.java,e\c\ec1c8b50190d0db2b7cea4139bc9bb35921d6f95
+P
+ src/ch05/sec05/SplitExample.java,5\5\552ba6085787b73025e8924a760ed134aa4bee04
+Q
+!src/ch05/sec05/CharAtExample.java,1\b\1bc552d40bb5c2074030df3e8700a9b8980d2ad8
+V
+&src/ch05/sec05/EmptyStringExample.java,f\a\fa8444fdfb727b2c24967c4925243c28ee10f0f6
+Q
+!src/ch05/sec05/ReplceExample.java,2\e\2e4500acf72601c06f61dbf081c4ae2bb50d18e7
+Q
+!src/ch05/sec05/LengthExample.java,1\c\1c7e39eb78badb20cd752091445999f123b582e7
+Q
+!src/ch05/sec05/EqualsExample.java,a\9\a9ba16629c2c54ae60b60ab76b26bca1bc310e85
+a
+1src/ch05/sec06/ArrayCreateByVaueListExample2.java,d\6\d62e485fad8a883005465009968a5bfd8709f4df
+[
++src/ch05/sec06/ArrayCreateByNewExample.java,b\3\b39ed32a8697236a0170ee472a9871c08ce7ef38
+X
+(src/ch05/sec04/GarbageObjectExample.java,f\0\f0680f7a0dd18d96996379de029f4f3149782573
+_
+/src/ch05/sec04/NullPointerExceptionExample.java,6\a\6a0a5947e4e06f1dc7403451d5507ad6715c8e89
+c
+3src/ch05/sec03/ReferenceVariableCompareExample.java,8\1\81078ce9ee3f7934501afb2782abf3e0d7f1211f
