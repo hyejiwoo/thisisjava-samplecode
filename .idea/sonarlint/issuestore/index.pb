@@ -25,3 +25,11 @@ T
 $src/ch05/sec05/SubStringExample.java,e\c\ec1c8b50190d0db2b7cea4139bc9bb35921d6f95
 c
 3src/ch05/sec03/ReferenceVariableCompareExample.java,8\1\81078ce9ee3f7934501afb2782abf3e0d7f1211f
+a
+1src/ch05/sec06/ArrayCreateByVaueListExample1.java,a\0\a0c4caf358837c495ba12d204d77fc0c6aa19f97
+V
+&src/ch05/sec06/ArrayLengthExample.java,1\9\19b0dd464e920e0f58e79055ed87b33ed5033958
+Q
+!src/ch02/sec06/StringExample.java,4\f\4feb7e4c35fb6304c53e129509f1d8296baf1a65
+k
+;src/ch05/sec07/MultidimensionalArrayByValueListExample.java,6\c\6c69c316e9ff058f98bd9ba761c20879dd41b72c
