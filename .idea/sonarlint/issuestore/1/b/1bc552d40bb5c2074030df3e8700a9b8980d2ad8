@@ -1,0 +1,10 @@
+
+e
+java:S6208	"CMerge the previous cases into this one using comma-separated label.(ÎÑáğıÿÿÿÿ8“ŸÑÿ0
+`
+java:S6208"CMerge the previous cases into this one using comma-separated label.(©ÓÌâ8©¹Ñÿ0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•ŠâÀ8û•‹Ñÿ0
+C	java:S131""Add a default case to this switch.(Ì™áÖûÿÿÿÿ8ÌÑÿ0
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÖÍÚ½ùÿÿÿÿ8ŸÑÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›ª†¡8¿¹Ñÿ0
