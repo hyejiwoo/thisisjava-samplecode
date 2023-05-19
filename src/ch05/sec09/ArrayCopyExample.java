@@ -2,13 +2,13 @@ package ch05.sec09;
 
 public class ArrayCopyExample {
     public static void main(String[] args) {
-        //ê¸¸ì´ 3ì¸ ë°°ì—´
+        //±æÀÌ 3ÀÎ ¹è¿­
         String [] oldStrArray = {"java", "array", "copy"};
-        //ê¸¸ì´ 5ì¸ ë°°ì—´ì„ ìƒˆë¡œ ìƒì„±
+        //±æÀÌ 5ÀÎ ¹è¿­À» »õ·Î »ı¼º
         String [] newStrArray = new String[5];
-        //ë°°ì—´ í•­ëª© ë³µì‚¬
+        //¹è¿­ Ç×¸ñ º¹»ç
         System.arraycopy( oldStrArray, 0, newStrArray, 0, oldStrArray.length);
-        //ë°°ì—´ í•­ëª© ì¶œë ¥
+        //¹è¿­ Ç×¸ñ Ãâ·Â
         for (int i=0; i<newStrArray.length; i++){
             System.out.println(newStrArray[i] + ",");
         }

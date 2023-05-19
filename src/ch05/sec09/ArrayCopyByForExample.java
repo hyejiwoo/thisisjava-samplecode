@@ -2,16 +2,16 @@ package ch05.sec09;
 
 public class ArrayCopyByForExample {
     public static void main(String[] args) {
-        //ê¸¸ì´ 3ì¸ ë°°ì—´
-        int[] oldIntArray = {1,2,3};
-        //ê¸¸ì´ 5ì¸ ë°°ì—´ì„ ìƒˆë¡œ ìƒì„±
+        // ±æÀÌ 3ÀÎ ¹è¿­
+        int[] oldIntArray = { 1, 2, 3 };
+        // ±æÀÌ 5ÀÎ ¹è¿­À» »õ·Î »ı¼º
         int[] newIntArray = new int[5];
-        //ë°°ì—´ í•­ëª© ë³µì‚¬
-        for (int i=0; i<oldIntArray.length; i++) {
+        // ¹è¿­ Ç×¸ñ º¹»ç
+        for (int i = 0; i < oldIntArray.length; i++) {
             newIntArray[i] = oldIntArray[i];
         }
-        //ë°°ì—´ í•­ëª© ì¶œë ¥
-        for (int i=0; i<newIntArray.length; i++) {
+        // ¹è¿­ Ç×¸ñ Ãâ·Â
+        for (int i = 0; i < newIntArray.length; i++) {
             System.out.println(newIntArray[i] + ",");
         }
     }
