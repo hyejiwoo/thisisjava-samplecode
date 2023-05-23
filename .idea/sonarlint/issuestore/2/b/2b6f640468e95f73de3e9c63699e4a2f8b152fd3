@@ -1,0 +1,12 @@
+
+t
+java:S1104"RMake field1 a static final constant or non-public and provide accessors if needed.(‘²úÛøÿÿÿÿ8èÁË¡ƒ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼û¤Ÿ8éÁË¡ƒ1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿîÔ¸8òÁË¡ƒ1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œÊ¹Éúÿÿÿÿ8ôÁË¡ƒ1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(êˆ‹Ù8õÁË¡ƒ1
+G
+java:S1068	"*Remove this unused "field3" private field.(°ˆ‡8ÿÁË¡ƒ1

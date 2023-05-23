@@ -1,0 +1,10 @@
+
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÄÚÆ‡8ó›·“ƒ1
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Î Î÷8ô›·“ƒ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëòéì8ô›·“ƒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸Úêçıÿÿÿÿ8ü›·“ƒ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢Öäéıÿÿÿÿ8ü›·“ƒ1
+X	java:S125"<This block of commented-out lines of code should be removed.(È®•ğ8ı›·“ƒ1
+X	java:S125"<This block of commented-out lines of code should be removed.(È®•ğ8ş›·“ƒ1
